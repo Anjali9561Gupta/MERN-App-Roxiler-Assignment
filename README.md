@@ -19,7 +19,7 @@ Create a MERN App Roxiler Assignment.
 
   e. Use MongoDB as the database to store user and task information.
 
-4. **Frontend**:
+2. **Frontend**:
 
   a. Use React to create a user interface for the task management application.
 
